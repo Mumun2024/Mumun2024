@@ -1,58 +1,41 @@
-<!-- Profile Banner -->
+<h1 align="center">Hi there, I'm Kashish Nagar 👋</h1>
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/assets/banner.png" alt="Kashish Nagar Banner" width="100%">
-</p>
-
-<!-- Title -->
-<h1 align="center">👋 Hey, I'm Kashish Nagar</h1>
-<p align="center">
-  🧠 AI/ML Engineer | 🚀 MLOps Enthusiast | 🌐 Full-Stack Developer | 📊 Data Science Explorer
-</p>
-
-<!-- Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&center=true&vCenter=true&color=00FFCC&width=500&lines=AI%2FML+Engineer;Building+Scalable+AI+Solutions;MLOps+%26+Deployment+Specialist;Frontend+%26+Backend+Developer;Turning+Data+into+Decisions" alt="Typing SVG">
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160">
-</p>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="visitors">
-  <img src="https://img.shields.io/badge/AI/ML-PyTorch-orange?logo=pytorch">
-  <img src="https://img.shields.io/badge/Backend-FastAPI-green">
-  <img src="https://img.shields.io/badge/Frontend-Tailwind-blue">
-  <img src="https://img.shields.io/badge/MLOps-DVC%20|%20MLflow-yellow">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+ML+Researcher+%7C+Data+Scientist;Deep+Learning+%7C+Computer+Vision+%7C+MLOps;Building+Models+%F0%9F%9A%80+Deploying+Dreams+%E2%9C%A8&center=true&width=800&height=45&color=58a6ff&vCenter=true&size=20" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I’m **Kashish Nagar**, a passionate **AI/ML Engineer** and **Full-Stack Developer** who loves building **real-world machine learning applications** with clean, efficient, and scalable code.  
+### 🧠 About Me
 
-💡 **I bridge AI research with production-ready solutions** — from model training to deployment with MLOps best practices.  
-
-🎓 MSc in **AI & ML** (in progress) | B.Ed & B.Sc in Mathematics.  
-📌 Skilled in **LangChain, Hugging Face Transformers, RAG pipelines, LoRA/QLoRA fine-tuning**.  
-🚀 Currently exploring **autonomous AI agents** and **LLM-powered dashboards**.
+- 🎓 I'm a Mathematics graduate from **MDU**, with a strong passion for **Artificial Intelligence** and **Deep Learning**
+- 🧪 Currently building and deploying AI models in **healthcare**, **finance**, and **recommendation systems**
+- 🧰 I follow full **MLOps pipelines**: modular coding, MLflow tracking, DVC versioning, Streamlit UI, and more
+- 🧩 I love solving problems in **Computer Vision**, **Time Series Forecasting**, and **Neural Network Optimization**
+- 🌐 Currently working on an AI assistant using **Lip Sync + 3D Blender + Text-to-Speech**
+- 🏆 Qualified **JAM 2024** with AIR **1291**
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,react,tailwind,js,html,css,git,docker,kubernetes" />
-</p>
+### 🚀 My AI/ML Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 Brain Tumor Detection | Hybrid model using EfficientNetB0 + XGBoost | `TensorFlow`, `OpenCV`, `MLflow`, `DVC`, `Streamlit` |
+| 🏠 Real Estate Investment Advisor | Predicts profitability of properties using MLP | `Scikit-learn`, `Pandas`, `Matplotlib` |
+| 🎬 Movie Recommendation System | Built using collaborative + content-based filtering | `Surprise`, `TF-IDF`, `KNN`, `Pandas` |
+| 🖐️ Skeleton-based Sign Language Recognition | Uses part mixing and deep learning | `PyTorch`, `OpenPose`, `CNN-RNN` |
+| 📈 Option Pricing Prediction | Based on CNN Kolmogorov-Arnold Network | `yFinance`, `CNN`, `NumPy`, `Matplotlib` |
+| 💬 Good Karma AI (Industry Project) | AI for psychologists to assist in mental health | `Rasa`, `ML`, `Docker`, `Firebase` |
+
+> 🧪 More experiments in: `Notebooks`, `Projects`, `Research`, `Colab Links`
+
+---
+
+### 🛠️ Tech Stack
 
 ```yaml
-Languages:       [ Python, JavaScript, HTML, CSS ]
-Frontend:        [ Tailwind CSS, JavaScript, React Basics ]
-Backend:         [ FastAPI, Flask, REST APIs ]
-Machine Learning: [ PyTorch, Transformers, OpenCV, Diffusion Models, Whisper ]
-Generative AI:   [ GPT-4, Hugging Face, LangChain, RAG, LoRA, QLoRA ]
-MLOps:           [ Docker, MLflow, DVC, Git, Kubernetes (learning) ]
-Tools & APIs:    [ Serper API, Wikipedia API, Google Drive API, Sumy ]
-
+Languages:    Python, JavaScript, Markdown, YAML, LaTeX
+Libraries:    TensorFlow, PyTorch, Scikit-learn, OpenCV, XGBoost
+MLOps Tools:  MLflow, DVC, Streamlit, GitHub Actions, Docker
+Data:         Pandas, NumPy, Matplotlib, Seaborn
+Other:        Blender, Rhubarb, FastAPI, Selenium, BeautifulSoup
