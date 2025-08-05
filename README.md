@@ -1,41 +1,95 @@
-<h1 align="center">Hi there, I'm Kashish Nagar 👋</h1>
+<h1 align="center">Hey there, I'm Kashish Nagar 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+ML+Researcher+%7C+Data+Scientist;Deep+Learning+%7C+Computer+Vision+%7C+MLOps;Building+Models+%F0%9F%9A%80+Deploying+Dreams+%E2%9C%A8&center=true&width=800&height=45&color=58a6ff&vCenter=true&size=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=GenAI+Engineer+%7C+ML+Researcher+%7C+MLOps+Specialist;Turning+Data+into+Impactful+AI+Solutions;Open+Source+%E2%9D%A4+%7C+Deploying+Dreams+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 About Me
+### 🔍 About Me
 
-- 🎓 I'm a Mathematics graduate from **MDU**, with a strong passion for **Artificial Intelligence** and **Deep Learning**
-- 🧪 Currently building and deploying AI models in **healthcare**, **finance**, and **recommendation systems**
-- 🧰 I follow full **MLOps pipelines**: modular coding, MLflow tracking, DVC versioning, Streamlit UI, and more
-- 🧩 I love solving problems in **Computer Vision**, **Time Series Forecasting**, and **Neural Network Optimization**
-- 🌐 Currently working on an AI assistant using **Lip Sync + 3D Blender + Text-to-Speech**
-- 🏆 Qualified **JAM 2024** with AIR **1291**
-
----
-
-### 🚀 My AI/ML Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 Brain Tumor Detection | Hybrid model using EfficientNetB0 + XGBoost | `TensorFlow`, `OpenCV`, `MLflow`, `DVC`, `Streamlit` |
-| 🏠 Real Estate Investment Advisor | Predicts profitability of properties using MLP | `Scikit-learn`, `Pandas`, `Matplotlib` |
-| 🎬 Movie Recommendation System | Built using collaborative + content-based filtering | `Surprise`, `TF-IDF`, `KNN`, `Pandas` |
-| 🖐️ Skeleton-based Sign Language Recognition | Uses part mixing and deep learning | `PyTorch`, `OpenPose`, `CNN-RNN` |
-| 📈 Option Pricing Prediction | Based on CNN Kolmogorov-Arnold Network | `yFinance`, `CNN`, `NumPy`, `Matplotlib` |
-| 💬 Good Karma AI (Industry Project) | AI for psychologists to assist in mental health | `Rasa`, `ML`, `Docker`, `Firebase` |
-
-> 🧪 More experiments in: `Notebooks`, `Projects`, `Research`, `Colab Links`
+🎓 Pursuing **M.Sc. in AI & ML** @ IIIT Lucknow (CGPA: 9.5)  
+🧠 GenAI & ML enthusiast with a strong mathematical background  
+🚀 Building **end-to-end AI pipelines** using LLMs, Transformers, and MLOps tools  
+🧪 Researching flood prediction via **geospatial learning & RAG** at Climate Resilience Observatory  
+🎤 Guest Speaker on Deep Learning at Veer Narmad South Gujarat University  
+📍 Based in Rajasthan | 🌐 Exploring the world of open-source & impactful AI research  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚒️ Tech Toolbox
 
-```yaml
-Languages:    Python, JavaScript, Markdown, YAML, LaTeX
-Libraries:    TensorFlow, PyTorch, Scikit-learn, OpenCV, XGBoost
-MLOps Tools:  MLflow, DVC, Streamlit, GitHub Actions, Docker
-Data:         Pandas, NumPy, Matplotlib, Seaborn
-Other:        Blender, Rhubarb, FastAPI, Selenium, BeautifulSoup
+| Domain | Tools & Frameworks |
+|--------|--------------------|
+| **Languages** | Python, C, SQL |
+| **Libraries** | TensorFlow, PyTorch, Sklearn, HuggingFace, OpenCV |
+| **GenAI / LLMs** | LangChain, LlamaIndex, LangGraph, RAG, Transformers |
+| **MLOps** | DVC, MLflow, GitHub Actions, YAML, Docker, Kubernetes (Basic) |
+| **Deployment** | Streamlit, FastAPI (Basic) |
+| **Versioning & CI/CD** | Git, GitHub, GitHub Actions |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🧠 Brain Tumor Detection (EfficientNetB0 + XGBoost)  
+> Classifies brain MRI scans using hybrid DL + ML architecture  
+> 🛠️ OpenCV, EfficientNetB0, XGBoost, Streamlit, MLflow, DVC  
+🔗 [Repo](https://github.com/Kashish245/Brain-Tumor-Detection-using-Hybrid-DL-Model)
+
+---
+
+#### 🔍 LLM-Powered Data Query System  
+> Converts user questions into MongoDB queries using LangChain agents  
+> 🛠️ LangChain, LlamaIndex, Streamlit, MongoDB  
+🔗 [Repo](https://github.com/Kashish245/Automated_Data_Query_System_with_Offline_LLM)
+
+---
+
+#### ✂️ MLOps Text Summarization Pipeline  
+> Modular abstractive summarizer with DVC, MLflow & GitHub Actions  
+> 🛠️ Transformers, YAML, GitHub Actions, Streamlit  
+🔗 [Repo](https://github.com/Kashish245/MLOPS_Complete_ML_Pipeline)
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Qualified IIT JAM 2024** – AIR **1291** in Mathematics  
+- 📜 RSCIT Certification – Rajasthan Govt. Digital Literacy Program  
+- 🎤 Delivered lecture on **Deep Learning & Neural Networks**  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashish245&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kashish245&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish245&layout=compact&theme=radical"/>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kashish-nagar-68560b324/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nagarkashish2024@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/Kashish245" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+### 🧠 Quote to Remember
+> _“I don’t just train models—I teach them to dream.”_
+
+---
+
